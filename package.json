@@ -1,0 +1,15 @@
+{
+  "name": "coco",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "express": "3.2.6",
+    "jade": "*",
+    "mongoose": "^4.11.10",
+    "request": "^2.81.0"
+  }
+}
